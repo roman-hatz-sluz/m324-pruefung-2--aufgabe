@@ -59,7 +59,7 @@ Allerdings gibt es einen Fehler, der dazu führt, dass der Workflow nicht richti
 - Der Workflow sollte auf github.com jetzt starten, es gibt jedoch einen Fehler beim Linter. Fixen Sie den Fehler und erstellen Sie einen Commit.
 - **Commit Messages**:
   - `"Task 3: Fixed Linter Error"`
-- Erzeugen Sie einen Fehler beim Formatter. Der Fehler soll zu einem Abbruch der GitHub Action führen. Entfernen Sie den Formatierungsfehler anschliessend wieder.
+- Prüfen Sie mit `npm run format-check, ob Formatierungsfehler vorliegen. Falls nein, erzeugen Sie einen Fehler. Der Fehler soll zu einem Abbruch der GitHub Action führen. Entfernen Sie den Formatierungsfehler anschliessend wieder.
 - **Commit Messages**:
   - `"Task 3: Add formatting error"`
     `"Task 3: Fix formatting error"`
