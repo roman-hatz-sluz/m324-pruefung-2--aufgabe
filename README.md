@@ -11,16 +11,15 @@ Hinweise:
 
 1. **Neues Repository auf GitHub anlegen**
 
-   - Öffnen Sie [github.com](https://github.com) und loggen Sie sich ein.
    - Erstellen Sie ein neues öffentliches Repository mit dem Namen `pruefung2_m324_VORNAME_NACHNAME`.
    - Achten Sie darauf, dass das Repository einen Branch namens `main` hat.
      <img src="./images/git.png" alt="git" height="200">
 
 2. **Code übernehmen**
 
-   - Öffnen Sie das Repository lokal
-   - Kopieren Sie alle Dateien aus [dieser Vorlage](https://github.com/roman-hatz-sluz/ict-m324-public/tree/pruefung2) in ihr lokales Repository.
-   - Erstellen Sie einen Commit mit der Nachricht `"Init"` und pushen Sie den Code auf GitHub. Ihr `main` Branch sollte den identischen Code der Vorlage enthalten.
+   - Öffnen Sie ihr Repository lokal.
+   - Kopieren Sie alle Dateien aus von diesem Repository in ihr lokales Repository. Erstellen Sie keinen Fork. 
+   - Erstellen Sie einen Commit mit der Nachricht `"Init"` und pushen Sie den Code auf GitHub. Ihr `main` Branch sollte denselben Code wie dieses Repository enthalten.
    - **Commit Messages**:
      - `"Init"`
 
