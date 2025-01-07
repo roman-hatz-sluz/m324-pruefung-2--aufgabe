@@ -2,7 +2,6 @@
 
 ---
 
-Hinweise:
 
 - Achten Sie auf die geforderten Commit Messages. Bei jeder Aufgabe muss ein Commit mit einer bestimmten Nachricht erstellt werden.
 - Lösen Sie die die Aufgaben 1 bis 3. Bei den Aufgaben 4 und 5 können Sie die Reihenfolge selber wählen.
