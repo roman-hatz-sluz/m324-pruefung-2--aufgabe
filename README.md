@@ -1,4 +1,4 @@
-# ict-m324 -Prüfungsaufgabe: GitHub Actions und CI/CD (40 Minuten)
+# ict-m324 -Prüfungsaufgabe: GitHub Actions und CI/CD  
 
 ---
 
