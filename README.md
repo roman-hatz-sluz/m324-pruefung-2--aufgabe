@@ -76,7 +76,7 @@ Allerdings gibt es einen Fehler, der dazu führt, dass der Workflow nicht richti
 - Fügen Sie eine beliebige GitHub Action vom Marketplace hinzu.
 - Die Action muss funktionieren und etwas sinnvolles machen im gegebenen Code.
 - Dokumentation schreiben: Verwenden Sie die Datei `README_Aufgabe4.md`aus Aufgabe 2 und beschreiben Sie in 1-2 vollständigen Sätzen, was ihre Action macht und welchen praktischen Nutzen sie für CI/CD bietet.
-- Tipp: Haben Sie im IPT Modul eine eigene Action entwickelt, die Sie nutzen können?
+
 - **Commit Messages**:
   - Alle Commits zu dieser Aufgabe müssen mit `"Task 4:"` beginnen.
 
